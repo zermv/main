@@ -1,0 +1,15 @@
+/Users/user/Desktop/Primer/3/obj/Debug/net6.0/3.csproj.AssemblyReference.cache
+/Users/user/Desktop/Primer/3/obj/Debug/net6.0/3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Desktop/Primer/3/obj/Debug/net6.0/3.AssemblyInfoInputs.cache
+/Users/user/Desktop/Primer/3/obj/Debug/net6.0/3.AssemblyInfo.cs
+/Users/user/Desktop/Primer/3/obj/Debug/net6.0/3.csproj.CoreCompileInputs.cache
+/Users/user/Desktop/Primer/3/bin/Debug/net6.0/3
+/Users/user/Desktop/Primer/3/bin/Debug/net6.0/3.deps.json
+/Users/user/Desktop/Primer/3/bin/Debug/net6.0/3.runtimeconfig.json
+/Users/user/Desktop/Primer/3/bin/Debug/net6.0/3.dll
+/Users/user/Desktop/Primer/3/bin/Debug/net6.0/3.pdb
+/Users/user/Desktop/Primer/3/obj/Debug/net6.0/3.dll
+/Users/user/Desktop/Primer/3/obj/Debug/net6.0/refint/3.dll
+/Users/user/Desktop/Primer/3/obj/Debug/net6.0/3.pdb
+/Users/user/Desktop/Primer/3/obj/Debug/net6.0/3.genruntimeconfig.cache
+/Users/user/Desktop/Primer/3/obj/Debug/net6.0/ref/3.dll
