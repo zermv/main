@@ -1,0 +1,15 @@
+/Users/user/Desktop/Primer/3seminar/bin/Debug/net6.0/3seminar
+/Users/user/Desktop/Primer/3seminar/bin/Debug/net6.0/3seminar.deps.json
+/Users/user/Desktop/Primer/3seminar/bin/Debug/net6.0/3seminar.runtimeconfig.json
+/Users/user/Desktop/Primer/3seminar/bin/Debug/net6.0/3seminar.dll
+/Users/user/Desktop/Primer/3seminar/bin/Debug/net6.0/3seminar.pdb
+/Users/user/Desktop/Primer/3seminar/obj/Debug/net6.0/3seminar.csproj.AssemblyReference.cache
+/Users/user/Desktop/Primer/3seminar/obj/Debug/net6.0/3seminar.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Desktop/Primer/3seminar/obj/Debug/net6.0/3seminar.AssemblyInfoInputs.cache
+/Users/user/Desktop/Primer/3seminar/obj/Debug/net6.0/3seminar.AssemblyInfo.cs
+/Users/user/Desktop/Primer/3seminar/obj/Debug/net6.0/3seminar.csproj.CoreCompileInputs.cache
+/Users/user/Desktop/Primer/3seminar/obj/Debug/net6.0/3seminar.dll
+/Users/user/Desktop/Primer/3seminar/obj/Debug/net6.0/refint/3seminar.dll
+/Users/user/Desktop/Primer/3seminar/obj/Debug/net6.0/3seminar.pdb
+/Users/user/Desktop/Primer/3seminar/obj/Debug/net6.0/3seminar.genruntimeconfig.cache
+/Users/user/Desktop/Primer/3seminar/obj/Debug/net6.0/ref/3seminar.dll
